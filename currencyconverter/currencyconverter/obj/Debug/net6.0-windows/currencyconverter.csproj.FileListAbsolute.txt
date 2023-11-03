@@ -1,0 +1,16 @@
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\bin\Debug\net6.0-windows\currencyconverter.exe
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\bin\Debug\net6.0-windows\currencyconverter.deps.json
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\bin\Debug\net6.0-windows\currencyconverter.runtimeconfig.json
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\bin\Debug\net6.0-windows\currencyconverter.dll
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\bin\Debug\net6.0-windows\currencyconverter.pdb
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.Form1.resources
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.AssemblyInfo.cs
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.dll
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\refint\currencyconverter.dll
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.pdb
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\currencyconverter.genruntimeconfig.cache
+C:\Users\hp\Downloads\CURRENCY\currencyconverter\currencyconverter\obj\Debug\net6.0-windows\ref\currencyconverter.dll
