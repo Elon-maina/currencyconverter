@@ -1,0 +1,14 @@
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\bin\Debug\net6.0\Seweragebill.exe
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\bin\Debug\net6.0\Seweragebill.deps.json
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\bin\Debug\net6.0\Seweragebill.runtimeconfig.json
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\bin\Debug\net6.0\Seweragebill.dll
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\bin\Debug\net6.0\Seweragebill.pdb
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.AssemblyInfo.cs
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.dll
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\refint\Seweragebill.dll
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.pdb
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\Seweragebill.genruntimeconfig.cache
+C:\Users\hp\Downloads\CURRENCY\Seweragebill\Seweragebill\obj\Debug\net6.0\ref\Seweragebill.dll

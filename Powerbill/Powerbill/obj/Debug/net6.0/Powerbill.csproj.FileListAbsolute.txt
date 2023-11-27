@@ -1,0 +1,14 @@
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.AssemblyInfo.cs
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\bin\Debug\net6.0\Powerbill.exe
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\bin\Debug\net6.0\Powerbill.deps.json
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\bin\Debug\net6.0\Powerbill.runtimeconfig.json
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\bin\Debug\net6.0\Powerbill.dll
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\bin\Debug\net6.0\Powerbill.pdb
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.dll
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\refint\Powerbill.dll
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.pdb
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\Powerbill.genruntimeconfig.cache
+C:\Users\hp\Downloads\CURRENCY\Powerbill\Powerbill\obj\Debug\net6.0\ref\Powerbill.dll

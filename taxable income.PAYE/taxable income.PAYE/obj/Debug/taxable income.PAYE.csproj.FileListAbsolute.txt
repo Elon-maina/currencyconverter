@@ -1,0 +1,10 @@
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\bin\Debug\taxable income.PAYE.exe.config
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\bin\Debug\taxable income.PAYE.exe
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\bin\Debug\taxable income.PAYE.pdb
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable income.PAYE.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable_income.PAYE.Form1.resources
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable_income.PAYE.Properties.Resources.resources
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable income.PAYE.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable income.PAYE.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable income.PAYE.exe
+C:\Users\hp\Downloads\CURRENCY\taxable income.PAYE\taxable income.PAYE\obj\Debug\taxable income.PAYE.pdb
