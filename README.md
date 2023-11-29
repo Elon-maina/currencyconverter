@@ -1,2 +1,1 @@
-# currencyconverter
-is a currency converter using C#
+C# OBJECT ORIENTED PROGRAMS CAT 1(ALPHAS GROUP)
